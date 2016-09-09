@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"errors"
 
-	"github.com/mattn/go-sqlite3"
+	"github.com/escribano/go-sqlite3"
 )
 
 type entrypoint struct {

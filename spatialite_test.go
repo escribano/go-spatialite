@@ -4,9 +4,9 @@ import (
 	"database/sql"
 	"testing"
 
-	"github.com/shaxbee/go-spatialite/wkb"
-	"github.com/stretchr/testify/assert"
-	"github.com/stretchr/testify/require"
+	"github.com/escribano/go-spatialite/wkb"
+	"github.com/escribano/testify/assert"
+	"github.com/escribano/testify/require"
 )
 
 func TestPoint(t *testing.T) {

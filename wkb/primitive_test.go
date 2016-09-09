@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"testing"
 
-	"github.com/stretchr/testify/assert"
+	"github.com/escribano/testify/assert"
 )
 
 func TestHeader(t *testing.T) {
